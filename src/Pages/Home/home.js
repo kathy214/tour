@@ -12,7 +12,7 @@ export default class Home extends Component{
     render() {
         return (
             <div>
-                <h3>这是一个主页面</h3>
+                <h3>这是一个主页面1111</h3>
                 <p>计数：{this.state.num} </p>
                 <button onClick={this.add.bind(this)} style={{ "color": "red", 'background':'pink' }}>加3</button>
             </div>
