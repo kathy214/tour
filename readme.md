@@ -1,0 +1,8 @@
+## 使用到的框架
+    react + react-router + ES6 + webpack + webpack-dev-server + babel + react-hot-loader
+
+## 用到的命令
+    打包命令： npm run build
+    启动项目： npm run dev
+
+热更新（可保存状态）：https://github.com/gaearon/react-hot-loader
