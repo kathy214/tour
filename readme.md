@@ -1,3 +1,6 @@
+# tour
+一个移动端的旅游网站
+
 ## 使用到的框架
     react + react-router + ES6 + webpack + webpack-dev-server + babel + react-hot-loader
 
